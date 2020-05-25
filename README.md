@@ -1,1 +1,3 @@
 # Bacheloroppgave
+Muligheten for å anvende Droneteknologi til anlegg i arktiske anleggsområder har vært interessant for bedrifter. Anlegg som byr på utfordringer som inspeksjon av fallende isdannelser krever menneskelige ressurser til å foreta utfordrende og tidskrevende løsninger, der det finnes en HMS- risiko som disse ansatte blir utsatt for. Denne oppgaven utforsker nettopp dette problemet. Oppgaven byr på en mulig løsning av et automatisk system som kan ta denne utfordrende oppgaven. Kunnskap innen droneteknologi, kamerateknologi og nevrale nettverk har blitt utforsket for å bygge opp et deteksjonssystem som er i stand til å kunne ta over menneskeressursene, effektivisere og gi
+sikkerhet til ansatte.
